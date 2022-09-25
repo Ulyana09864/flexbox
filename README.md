@@ -1,5 +1,5 @@
 # flexbox
-<!DOCTYPE html>   
+<!DOCTYPE>   
 <html lang="en">   
 <head>   
     <meta charset="UTF-8">   
